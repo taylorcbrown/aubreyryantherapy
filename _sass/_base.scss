@@ -1,0 +1,25 @@
+// General styles
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 100px;
+}
+
+a {
+    color: #5464bf;
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+h1, h2, h3, h4 {
+    color: $green;
+    font-family: $header-font-family;
+}
+

@@ -1,0 +1,130 @@
+/* General Classes */
+
+.btn {
+    background-color: $blue;
+}
+
+.page-header {
+    margin-top: 20px;
+}
+
+/* Navbar styles
+-------------------------------------------------- */
+.navbar {
+  background-color: $blue;
+  border-bottom: 1px solid $dark-blue;
+
+  a {
+    color: white !important;
+    &:hover {
+      color: $light-grey !important;
+    }
+  }
+
+}
+
+.main-nav {
+    height: 50px;
+    padding: 15px 0 15px 15px;
+    line-height: 20px;
+}
+
+.brand {
+  font-family: $header-font-family;
+  float: left;
+  height: 50px;
+  padding: 15px 15px 15px 0;
+  font-size: 18px;
+  line-height: 20px;     
+}
+
+/* Footer */
+.site-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding-top: 10px;
+  /* Set the fixed height of the footer here */
+  min-height: 20px;
+  background-color: $blue;
+  color: white;
+}
+.site-footer a {
+    color: white;
+}
+
+/* Home Page */
+
+.banner {
+    background-color: $light-blue;
+    margin-bottom: 20px;
+    margin-top: -20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+
+    .btn {
+      border-color: white;
+      background-color: white;
+      color: $blue;
+      
+      &:active {
+        background-color: white;
+        border-color: $light-grey;
+        color: $dark-blue;
+      }
+    }
+}
+
+/*
+.banner .btn:hover {
+    color: #f2ea79;
+    background-color: #333;
+}
+*/
+.banner h1 {
+    font-size: 58px;
+    color: $yellow;
+}
+.banner p {
+    font-size: 21px;
+    font-weight: 200;
+    margin-bottom: 15px;
+}
+
+.site-header a {
+    color: white;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.site-header .logo {
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    float: left;
+    line-height: 1.1;
+}
+
+.specialties {
+  margin-top: 40px;
+}
+
+.price {
+  font-size: 100px;
+  font-family: $header-font-family;
+
+  sup {
+    font-size: 15px;
+    top: -57px;
+  }
+}
+
+/* Page Styles */
+.post {
+    font-size: 16px;
+
+    img {
+      margin-bottom: 20px;
+    }
+}
