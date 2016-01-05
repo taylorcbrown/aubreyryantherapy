@@ -14,6 +14,7 @@ url: "http://aubreyryantherapy.com" # the base hostname & protocol for your site
 tagline: Licenced Marriage and Family Therapist in Chicago
 address: "561 W. Diversey #208, Chicago, IL, 60614"
 phone: 872-222-8044
+permalink: none
 
 # Build settings
 markdown: kramdown
