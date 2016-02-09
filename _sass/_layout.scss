@@ -46,12 +46,17 @@
   width: 100%;
   padding-top: 10px;
   /* Set the fixed height of the footer here */
-  min-height: 20px;
+  min-height: 70px;
   background-color: $blue;
   color: white;
-}
-.site-footer a {
+
+  a {
     color: white;
+  }
+  time {
+    margin-bottom: 10px;
+    display: block;
+  }
 }
 
 /* Home Page */

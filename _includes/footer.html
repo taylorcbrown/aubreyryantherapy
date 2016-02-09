@@ -4,15 +4,19 @@
           <div class="col-md-10 col-md-offset-1">  
             
             <div class="row">
-              <p class="col-md-4"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> {{site.phone}}</p>
-              <p class="col-md-4"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-              <p class="col-md-4"><span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span> {{site.address}}</p>
-            </div-->
+              <p itemprop="telephone" class="col-md-6"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> {{site.phone}}</p>
+              <p itemprop="email" class="col-md-6"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+            </div>
+            <div class="row">  
+              <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress" class="col-md-6"><span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span> <span itemprop="streetAddress">561 W Diversey #208</span> <span itemprop="addressLocality">Chicago</span>, <span itemprop="addressRegion">IL</span> <span itemprop="postalCode">60614</span></p>
+              <time itemprop="openingHours" datetime="Sa 08:00-18:00" class="col-md-6"><span class="glyphicon glyphicon-time" aria-hidden="true"></span> Saturdays 8AM-6PM</time>
+            </div>
           
           </div><!--col-md-8-->
         </div><!--row-->
       </div><!--container-->
     </footer><!-- #colophon -->
+  </span><!--schema-->
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
