@@ -14,12 +14,13 @@ layout: home
             </div>
             
             <div class="col-lg-4">
-              <h1 class="hidden-xs hidden-sm hidden-md">{{site.title}}</h1>
+              <h1 class="art-title hidden-xs hidden-sm hidden-md">{{site.title}}</h1>
               <h1 class="hidden-lg text-center">Aubrey Ryan, LMFT</h1>
 
               <p class="hidden-xs hidden-sm hidden-md">{{site.tagline}}</p>
               <p class="hidden-lg text-center">{{site.tagline}}</p>
-              <p class="text-center"><a class="btn btn-primary btn-lg" href="mailto:{{site.email}}" onClick="javascript:pageTracker._trackPageview('/mailto/email');" role="button">Contact Me</a></p>
+              <p itemprop="telephone" class="phone-cta text-center"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> {{site.phone}}</p>
+              <p class="text-center"><a class="btn btn-primary btn-lg" href="mailto:{{site.email}}" onClick="javascript:pageTracker._trackPageview('/mailto/email');" role="button">Email Me</a></p>
             </div>
           </div><!--row-->
 

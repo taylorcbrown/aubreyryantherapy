@@ -46,7 +46,7 @@
   width: 100%;
   padding-top: 10px;
   /* Set the fixed height of the footer here */
-  min-height: 70px;
+  min-height: 40px;
   background-color: $blue;
   color: white;
 
@@ -80,6 +80,25 @@
         color: $dark-blue;
       }
     }
+    h1 {
+      font-size: 58px;
+      color: $yellow;
+    }
+    p {
+      font-size: 21px;
+      font-weight: 200;
+      margin-bottom: 15px;
+    }
+    .art-title {
+      font-size: 48px;
+      margin-top: 0;
+    }
+    .phone-cta {
+      color: $yellow;
+      font-family: $header-font-family;
+      font-size: 30px;
+      font-weight: 500;
+    }
 }
 
 /*
@@ -88,15 +107,6 @@
     background-color: #333;
 }
 */
-.banner h1 {
-    font-size: 58px;
-    color: $yellow;
-}
-.banner p {
-    font-size: 21px;
-    font-weight: 200;
-    margin-bottom: 15px;
-}
 
 .site-header a {
     color: white;
