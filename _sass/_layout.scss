@@ -98,6 +98,9 @@
       font-family: $header-font-family;
       font-size: 30px;
       font-weight: 500;
+      a {
+        color: $yellow;
+      }
     }
 }
 
