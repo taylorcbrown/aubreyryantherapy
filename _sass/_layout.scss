@@ -24,12 +24,6 @@
 
 }
 
-.main-nav {
-    height: 50px;
-    padding: 15px 0 15px 15px;
-    line-height: 20px;
-}
-
 .brand {
   font-family: $header-font-family;
   float: left;
@@ -37,6 +31,40 @@
   padding: 15px 15px 15px 0;
   font-size: 18px;
   line-height: 20px;     
+}
+
+.navbar-custom {
+  li a {
+    &:hover {
+      background-color: $light-blue;
+    }
+    &:focus {
+      background-color: $light-blue;
+    }
+  }
+  .navbar-toggle {
+    border-color: none;
+    margin-right: 0px;
+    background-color: transparent;
+
+    &:focus {
+      background-color: $light-blue !important;
+    }
+    .icon-bar {
+      background-color: white !important;
+    }
+  }
+}
+
+
+
+/*
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: $light-blue !important;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: $light-blue !important;
 }
 
 /* Footer */
