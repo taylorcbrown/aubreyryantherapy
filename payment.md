@@ -18,6 +18,12 @@ permalink: /payment/
 	<div class="col-xs-4">				
 		<img src="{{site.baseurl}}/img/cigna.png" alt="Cigna" class="img-responsive">
 	</div>
+	<div class="col-xs-4">				
+		<img src="{{site.baseurl}}/img/tricare.gif" alt="Tricare" class="img-responsive">
+	</div>
+	<div class="col-xs-4">				
+		<img src="{{site.baseurl}}/img/mhn.png" alt="MHN" class="img-responsive">
+	</div>
 </div>
 
 <p>I'm also happy to provide ongoing receipts to submit for Out Of Network benefits or Health Savings Accounts.</p>
