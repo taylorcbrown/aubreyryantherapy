@@ -8,6 +8,27 @@ permalink: /about/
 <div class="row">
 	<div class="col-md-6 col-md-push-6">
 		<img src="{{site.baseurl}}/img/aubrey-ryan-lmft.jpg" alt="Aubrey Ryan, LMFT" class="img-rounded img-responsive">
+		<h3>Location</h3>
+		<p>I'm located at 561 W Diversey, but the office unit changes depending on the day. Please see the table below.</p>
+
+		<table class="table">
+		  <thead>
+		  	<tr>
+		  		<th>Day</th>
+		  		<th>Office</th>
+		  	</tr>
+		  </thead>
+		  <tbody>
+			  <tr>
+			    <td>Tuesdays</td>
+			    <td>561 W Diversey #216, Chicago, IL 60614</td>
+			  </tr>
+			  <tr>
+			    <td>Saturdays</td>
+			    <td>561 W Diversey #208, Chicago, IL 60614</td>
+			  </tr>
+			</tbody>
+		</table>
 	</div>
 
 	<div class="col-md-6 col-md-pull-6">
