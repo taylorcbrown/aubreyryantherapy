@@ -9,7 +9,7 @@ permalink: /about/
 	<div class="col-md-6 col-md-push-6">
 		<img src="{{site.baseurl}}/img/aubrey-ryan-lmft.jpg" alt="Aubrey Ryan, LMFT" class="img-rounded img-responsive">
 		<h3>Location</h3>
-		<p>I'm located at 561 W Diversey, but the office unit changes depending on the day. Please see the table below.</p>
+		<p>561 W. Diversey Pkwy Chicago, IL 60614</p>
 
 		<table class="table">
 		  <thead>
@@ -20,12 +20,12 @@ permalink: /about/
 		  </thead>
 		  <tbody>
 			  <tr>
-			    <td>Tuesdays</td>
-			    <td>561 W Diversey #216, Chicago, IL 60614</td>
+			    <td>Tuesday</td>
+			    <td>Suite 216</td>
 			  </tr>
 			  <tr>
-			    <td>Saturdays</td>
-			    <td>561 W Diversey #208, Chicago, IL 60614</td>
+			    <td>Saturday</td>
+			    <td>Suite 208</td>
 			  </tr>
 			</tbody>
 		</table>
