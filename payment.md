@@ -19,10 +19,13 @@ permalink: /payment/
 		<img src="{{site.baseurl}}/img/cigna.png" alt="Cigna" class="img-responsive">
 	</div>
 	<div class="col-xs-4">				
-		<img src="{{site.baseurl}}/img/tricare.gif" alt="Tricare" class="img-responsive">
+		<img src="{{site.baseurl}}/img/tricare.png" alt="Tricare" class="img-responsive">
 	</div>
 	<div class="col-xs-4">				
-		<img src="{{site.baseurl}}/img/mhn.png" alt="MHN" class="img-responsive">
+	  <img src="{{site.baseurl}}/img/mhn.png" alt="MHN" class="img-responsive center-block">
+	</div>
+	<div class="col-xs-4">				
+		<img src="{{site.baseurl}}/img/humana.png" alt="Humana" class="img-responsive">
 	</div>
 </div>
 
