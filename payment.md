@@ -22,7 +22,7 @@ permalink: /payment/
 		<img src="{{site.baseurl}}/img/tricare.png" alt="Tricare" class="img-responsive">
 	</div>
 	<div class="col-xs-4">				
-	  <img src="{{site.baseurl}}/img/mhn.png" alt="MHN" class="img-responsive center-block">
+	  <img src="{{site.baseurl}}/img/mhn.png" alt="MHN" class="img-responsive">
 	</div>
 	<div class="col-xs-4">				
 		<img src="{{site.baseurl}}/img/humana.png" alt="Humana" class="img-responsive">

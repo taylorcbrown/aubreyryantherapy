@@ -20,11 +20,11 @@ permalink: /about/
 		  </thead>
 		  <tbody>
 			  <tr>
-			    <td>Tuesday</td>
+			    <td>Tuesdays</td>
 			    <td>Suite 216</td>
 			  </tr>
 			  <tr>
-			    <td>Saturday</td>
+			    <td>Saturdays</td>
 			    <td>Suite 208</td>
 			  </tr>
 			</tbody>
