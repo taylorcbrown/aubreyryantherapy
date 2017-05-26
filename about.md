@@ -20,11 +20,19 @@ permalink: /about/
 		  </thead>
 		  <tbody>
 			  <tr>
-			    <td>Tuesdays</td>
+			    <td>Tuesday</td>
 			    <td>Suite 216</td>
 			  </tr>
+				<tr>
+					<td>Thursday</td>
+					<td>Suite 216</td>
+				</tr>
+				<tr>
+					<td>Friday</td>
+					<td>Suite 216</td>
+				</tr>
 			  <tr>
-			    <td>Saturdays</td>
+			    <td>Saturday</td>
 			    <td>Suite 208</td>
 			  </tr>
 			</tbody>
@@ -37,7 +45,7 @@ permalink: /about/
 
 		<p>I hold a Master’s Degree in Marriage and Family Therapy from Auburn University, one of the top programs in the country and am a Licensed Marriage and Family Therapist in the state of Illinois.</p>
 
-		<p>I have provided treatment to individuals and families with a range of backgrounds and mental health diagnoses at a Chicago community mental health agency for the past few years.</p>
+		<p>I provided treatment to individuals and families with a range of backgrounds, lifestyles and mental health diagnoses at a Chicago community mental health agency for several years.</p>
 
 		<p>I find this work very rewarding and relish the experience of watching people build their self-understanding and confidence in treatment, then going out primed to tackle life and its inevitable challenges.</p>
 
