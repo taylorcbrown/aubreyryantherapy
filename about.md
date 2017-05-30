@@ -8,7 +8,7 @@ permalink: /about/
 <div class="row">
 	<div class="col-md-6 col-md-push-6">
 		<img src="{{site.baseurl}}/img/aubrey-ryan-lmft.jpg" alt="Aubrey Ryan, LMFT" class="img-rounded img-responsive">
-		<h3>Location & Hours</h3>
+		<h3>Location</h3>
 		<p>561 W Diversey Pkwy Chicago, IL 60614</p>
 
 		<table class="table">
@@ -16,29 +16,24 @@ permalink: /about/
 		  	<tr>
 		  		<th>Day</th>
 		  		<th>Office</th>
-					<th>Hours</th>
 		  	</tr>
 		  </thead>
 		  <tbody>
 			  <tr>
 			    <td>Tuesday</td>
 			    <td>Suite 216</td>
-					<td>8AM-6PM</td>
 			  </tr>
 				<tr>
 					<td>Thursday</td>
 					<td>Suite 216</td>
-					<td>8AM-6PM</td>
 				</tr>
 				<tr>
 					<td>Friday</td>
 					<td>Suite 216</td>
-					<td>8AM-6PM</td>
 				</tr>
 			  <tr>
 			    <td>Saturday</td>
 			    <td>Suite 208</td>
-					<td>8AM-6PM</td>
 			  </tr>
 			</tbody>
 		</table>
