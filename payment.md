@@ -22,10 +22,13 @@ permalink: /payment/
 		<img src="{{site.baseurl}}/img/tricare.png" alt="Tricare" class="img-responsive">
 	</div>
 	<div class="col-xs-4">				
-	  <img src="{{site.baseurl}}/img/mhn.png" alt="MHN" class="img-responsive">
+		<img src="{{site.baseurl}}/img/humana.png" alt="Humana" class="img-responsive">
 	</div>
 	<div class="col-xs-4">				
-		<img src="{{site.baseurl}}/img/humana.png" alt="Humana" class="img-responsive">
+		<img src="{{site.baseurl}}/img/optum.png" alt="Optum" class="img-responsive">
+	</div>
+	<div class="col-xs-4">				
+		<img src="{{site.baseurl}}/img/united-healthcare.png" alt="United Healthcare" class="img-responsive">
 	</div>
 </div>
 
