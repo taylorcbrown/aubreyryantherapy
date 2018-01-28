@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Payment Options
-description: Learn about therapy payment options, including Blue Cross Blue Sheild PPO, Magellan Behavioral Health and Cigna.
+description: Learn about therapy payment options, including Blue Cross Blue Shield PPO, Magellan Behavioral Health and Cigna.
 permalink: /payment/
 ---
 

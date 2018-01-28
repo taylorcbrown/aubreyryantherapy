@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About Aubrey Ryan
+title: About Aubrey Ryan, Licensed Marriage and Family Therapist in Chicago
+headline: About Aubrey Ryan
 description: Find out more about Aubrey Ryan, a Licensed Marriage and Family Therapist (LMFT) based in Chicago. Get insights into her background and approach to therapy.
 permalink: /about/
 ---
