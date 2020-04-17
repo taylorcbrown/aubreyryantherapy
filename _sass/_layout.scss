@@ -132,6 +132,11 @@
     }
 }
 
+.banner.green {
+  background-color: $green;
+  border-bottom: 1px solid darken($green, 10%);
+}
+
 /*
 .banner .btn:hover {
     color: #f2ea79;
